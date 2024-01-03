@@ -1,0 +1,1 @@
+A temperature converter is a tool or program designed to convert temperatures between different units of measurement. The most commonly used temperature scales are Celsius (°C), Fahrenheit (°F), and Kelvin (K). Converting temperatures between these scales is a common need, especially when dealing with international or interdisciplinary data.
